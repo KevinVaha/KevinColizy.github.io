@@ -1,4 +1,4 @@
-const inpSiteName = document.getElementById('constructionSiteName');
+const better_name = document.getElementById('constructionSiteName');
 const inpSiteAddress = document.getElementById('siteAddress');
 const inpSiteContractor = document.getElementById('contractorName');
 const inpSiteDueDate = document.getElementById('dueDate');
